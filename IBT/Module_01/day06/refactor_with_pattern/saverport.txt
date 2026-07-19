@@ -1,0 +1,6 @@
+roba,ets1099/13
+ Your grade report
+bio=89
+ english=75
+ math=80
+ your average is :81.33333333333333so you: passed
